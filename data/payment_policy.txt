@@ -1,0 +1,9 @@
+Payment policy and receipts
+
+Accepted modes: NEFT, RTGS, cheque, demand draft, online gateway. Payment should be in favor of the company name as per allotment letter.
+
+Receipts are generated within 3 working days after payment is realized. For receipt issues or duplicate receipt, contact accounts with your transaction reference number, flat ID, and tower name. Receipts can be re-sent by email from the customer portal.
+
+Late payment: Grace period 15 days from due date. After that, late fee of 2% per month may apply as per agreement. For payment plans and EMI options, refer to the payment schedule in your agreement.
+
+Refunds: Only as per cancellation policy. Processing time 4-6 weeks after approval. For payment receipt not received or wrong amount on receipt, raise a ticket with payment date, amount, and bank reference.
