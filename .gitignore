@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+chroma_db/
+
+# Local environment and logs (do not commit secrets)
+.env
+*.log
+

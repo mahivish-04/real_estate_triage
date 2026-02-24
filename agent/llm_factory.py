@@ -16,6 +16,7 @@ from backend.config import (
     GROQ_API_KEY,
     OLLAMA_BASE_URL,
     OLLAMA_MODEL,
+    GEMINI_MODEL,
 )
 
 
@@ -31,7 +32,7 @@ def get_llm():
     if LLM_PROVIDER == "gemini" and GOOGLE_API_KEY:
         from langchain_google_genai import ChatGoogleGenerativeAI
         return ChatGoogleGenerativeAI(
-            model="gemini-1.5-flash",
+            model=GEMINI_MODEL,
             google_api_key=GOOGLE_API_KEY,
             temperature=0,
         )
